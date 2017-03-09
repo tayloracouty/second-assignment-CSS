@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+	.main-container {
+		color: black;
+		font-family: "Playfair Display", arial;
+	}
+
+		body {
+		background-color: grey;
+		}
+
+		h1 {
+		color: black;
+		text-align: center;
+		}
+
+		h3 {
+		color: black;
+		border: 2px solid black;
+		}
+
+		p {
+		color: black;
+		font-size: 12px;
+		}
+
+
+
+
+
+		
